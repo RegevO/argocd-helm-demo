@@ -1,2 +1,2 @@
-repoURL: https://github.com/<your-username>/argocd-helm-demo
+repoURL: https://github.com/RegevO/argocd-helm-demo
 targetRevision: HEAD
