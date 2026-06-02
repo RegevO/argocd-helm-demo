@@ -1,2 +1,2 @@
 repoURL: https://github.com/RegevO/argocd-helm-demo
-targetRevision: HEAD
+targetRevision: main
